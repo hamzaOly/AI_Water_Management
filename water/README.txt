@@ -53,8 +53,8 @@ To get this project up and running on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/](https://github.com/)[YourGitHubUsername]/[YourRepositoryName].git
-    cd [YourRepositoryName]
+    git clone https://github.com/hamzaOlyAI_Water_Management.git
+    cd AI_Water_Management
     ```
 
 2.  **Create a virtual environment (recommended):**
