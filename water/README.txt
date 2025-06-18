@@ -118,12 +118,7 @@ After setting up the environment and installing dependencies:
 
 ## Contact
 
-For any questions or collaborations, feel free to contact:
+For any questions, feel free to contact:
 
 * **Hamza Eleimat**
 * **holimat6@gmail.com**
-* **[Your GitHub Profile Link (Optional)]**
-
-## License
-
-[You can add a license here, e.g., MIT License, if applicable. If not, you can omit this section or state "No specific license defined."]
