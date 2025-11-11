@@ -4,13 +4,6 @@
 
 This project leverages Artificial Intelligence and Machine Learning to address critical water management challenges, focusing on enhancing water security and optimizing resource utilization. It introduces a dual-model approach designed to provide both strategic foresight for long-term planning and real-time operational efficiency in combating water waste.
 
-## Problem Statement
-
-[**Describe the specific water challenge you are addressing, e.g., in Jordan.** You can use points from your presentation's Slide 2 here.]
-- [Example: Jordan faces extreme water scarcity, significantly below the international water poverty line.]
-- [Example: High rates of non-revenue water (NRW) due to leaks and inefficient infrastructure.]
-- [Example: Increasing demand driven by population growth and regional challenges.]
-
 ## Solution Overview
 
 Our system provides a comprehensive AI-driven solution by integrating two core machine learning models:
